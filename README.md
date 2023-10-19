@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 </h2>
 
 ### 👨‍💻: About Me :
-I am a Python, JavaScript and php Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania.
-
+- I'm SAM OCHU
+- I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tanzania. <br>
+- I'm current learning Python, JavaScript and php.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
