@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KING-OCHU&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Profile views](https://komarev.com/ghpvc/?username=KING-OCHU&label=Profile%20views)](https://github.com/KING-OCHU)
